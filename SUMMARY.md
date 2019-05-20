@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [指南](README.md)
 
